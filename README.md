@@ -17,8 +17,8 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/botstylee/botstylee
-> cd botstylee
+> git clone https://github.com/sahilteamx/Ash_v3
+> cd Ash_v3
 > npm install
 ```
 ###### Run
