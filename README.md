@@ -9,7 +9,7 @@
 <a href="https://github.com/botstylee/botstylee/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Bot
-[`Group Whatsapp`](https://chat.whatsapp.com/JMEkZREiG4O8T9NQGViUtx)
+[`Group Whatsapp`](https://chat.whatsapp.com/F9VNFC2TBNk8CdfO66eaD1)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
@@ -34,8 +34,8 @@
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/botstylee/botstylee
-> cd botstylee
+> git clone https://github.com/sahilteamx/Ash_v3
+> cd Ash_v3
 > npm install
 ```
 ###### Run
@@ -45,6 +45,7 @@
 --------------
 
 ### Thanks To 
+[`sahilteamx`](https://github.com/sahilteamx)
 [`Nurutomo`](https://github.com/Nurutomo)
 
 [`BENNIISMAEL`](https://github.com/botstylee)
